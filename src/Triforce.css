@@ -32,3 +32,20 @@
     bottom: 0;
     margin: auto
 }
+
+.Square {
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    /* border-width: 50px; */
+}
+
+.Red {
+    background-color: red;
+}
+.Blue {
+    background-color: blue;
+}
+.Green {
+    background-color: green;
+}
