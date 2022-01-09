@@ -1,0 +1,34 @@
+.Triangle {
+    width: 0;
+    height: 0;
+    background-color: transparent;
+    border-style: solid;
+    border-left-width: 50px;
+    border-right-width: 50px;
+    border-bottom-width: 87px;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    border-top-color: transparent;
+    border-bottom-color: green;
+
+}
+
+.TopTri {
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+}
+
+.BotTri {
+    display: inline-block;
+}
+
+.DisplayName {
+    position: absolute;
+    text-align: center;
+    left: 0;
+    right: 0;
+    top: 50%;
+    bottom: 0;
+    margin: auto
+}
