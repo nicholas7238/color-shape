@@ -1,3 +1,7 @@
+.Triforce {
+    background-color: black;
+}
+
 .Triangle {
     width: 0;
     height: 0;
@@ -34,8 +38,8 @@
 }
 
 .Square {
-    height: 50px;
-    width: 50px;
+    height: 100px;
+    width: 100px;
     display: inline-block;
     /* border-width: 50px; */
 }
@@ -48,4 +52,20 @@
 }
 .Green {
     background-color: green;
+}
+
+.SquaresContainer {
+    width: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 100px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+h1 {
+    padding: 50px;
+    margin: 0px;
 }

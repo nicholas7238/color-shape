@@ -1,0 +1,21 @@
+.Square {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    /* border-width: 50px; */
+}
+
+.SquaresContainer {
+    width: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 100px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+h1 {
+    padding: 50px;
+    margin: 0px;
+}

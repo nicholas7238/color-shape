@@ -21,7 +21,7 @@ export default function Triforce() {
     }, [searchInput])
 
     return (
-        <div>
+        <div className='Triforce'>
             <h2 className='DisplayName'>Nick</h2>
             <div className='Triangle TopTri'></div>
             <div>
