@@ -1,5 +1,5 @@
 import React from 'react'
-import './Triforce.css';
+
 
 export default function Square(props) {
     const color = props.color

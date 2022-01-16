@@ -1,13 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import Triforce from './Triforce';
-import ColoredSquaresMaker from './ColoredSquaresMaker';
 import ColoredSquares from './ColoredSquares';
 
 function App() {
   return (
     <div className="App">
-      {/* <Triforce /> */}
+
       <ColoredSquares />
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
